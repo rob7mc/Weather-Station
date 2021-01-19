@@ -6,6 +6,6 @@ The station is low-cost, allows for the wireless transmission of data obtained o
 
 The motivation for the project was due to the fact that traditional and research grade weather stations are very expensive. It was also noticed that similar previous implementations could be improved upon.
 
-# When running the code:
+## When running the code:
 
 The IDE version used was 1.8.10. Any required libraries can be found in the Libraries folder. The main code used on the Arduino Mega and UNO can be found in the Main_Code folder. Every other sensors code can be found in their respective folders when testing individual components on either the Arduino Mega or UNO. Note that some pin values may need to be changed when going between the Mega and UNO.
